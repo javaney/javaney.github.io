@@ -159,10 +159,7 @@ A comprehensive reflection on my journey through the Computer Science program, h
 
 ## Contact Information
 
-**Email:** [your.email@example.com]  
-**LinkedIn:** [Your LinkedIn Profile]  
-**GitHub:** [Your GitHub Profile]  
-**Portfolio Website:** [Your Portfolio URL]
+**Email:** javaneythomas4@gmail.com
 
 ---
 
